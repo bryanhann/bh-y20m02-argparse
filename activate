@@ -1,0 +1,4 @@
+ROOT=$(.bh downfind .bh $PWD)
+export PYTHONPATH=$ROOT/lib.python
+source $ROOT/.venv/bin/activate
+

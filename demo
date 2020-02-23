@@ -1,0 +1,2 @@
+python -m bh.y20m02.argparse demo $* || exit
+python -m A.B.C
